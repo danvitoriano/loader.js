@@ -1,5 +1,3 @@
-//THIS IS A JQUERY EXTENTION
-
 (function ($) {
 
     function Loader(target_container) {
